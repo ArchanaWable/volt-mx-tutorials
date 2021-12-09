@@ -278,6 +278,25 @@
       "kuid": "5ff7b4ta-15a6-4ar8-87ue-c2cdf7n8",
       "hikeVersion": "1.0",
       "weight": "12"
+    },
+    {
+      "hikeVersion": "1.0",
+      "title": "",
+      "description": "",
+      "checksum": "6cb6928b8775567086465d751c63f46a3c271002edcb5b4faf4f3f8cdb7ccf63",
+      "kuid": "9b0f07t4-e9a8-49rb-83u2-876264n4",
+      "category": [
+        "Develop the Front End"
+      ],
+      "details": "",
+      "cards": 1,
+      "time": "1 Mins",
+      "platformVersion": 9.2,
+      "filename": "introductiontosegmentv9.zip",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/IntroductiontoSegmentV9",
+      "fileURL": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/introductiontosegmentv9.zip",
+      "alias": "hikes/tour/IntroductiontoSegmentV9",
+      "image": "/default/hike-default.png"
     }
   ]
 }
